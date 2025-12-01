@@ -1,2 +1,3 @@
 "-[] Estudar Git" 
 "-[] Praticar GitHub" 
+"[] Revisar Codigo" 
